@@ -11,7 +11,7 @@ An advanced decision-support framework powered by a **Custom Artificial Neural N
 
 ### 🎥 Project Walkthrough & UI Demonstration
 
-[![Watch the Demo Video](https://github.com/RViduraB/D.I.R.E.C.T.-Smart-Decision-system/blob/main/direct%20vid.png.jpg)](https://drive.google.com/file/d/1K3znBa7JCa9GhjXDNuzlpR4Sq0uKcr86/view?usp=sharing)
+[![Watch the Demo Video](https://github.com/RViduraB/D.I.R.E.C.T.-Smart-Decision-system/blob/main/direct%20vid.png)](https://drive.google.com/file/d/1K3znBa7JCa9GhjXDNuzlpR4Sq0uKcr86/view?usp=sharing)
 
 *Click the image above to watch the complete system execution and pipeline walkthrough.*
 
