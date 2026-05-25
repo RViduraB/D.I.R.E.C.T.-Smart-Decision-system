@@ -9,6 +9,12 @@
 
 An advanced decision-support framework powered by a **Custom Artificial Neural Network (ANN) built entirely from scratch (First Principles)**. This system monitors, analyzes, and forecasts district-wise paddy yields and evaluates macro-level national rice surpluses or deficits against Sri Lanka's annual demand threshold.
 
+### 🎥 Project Walkthrough & UI Demonstration
+
+[![Watch the Demo Video](https://img.youtube.com/vi/YOUR_VIDEO_ID/0.jpg)](https://drive.google.com/file/d/1K3znBa7JCa9GhjXDNuzlpR4Sq0uKcr86/view?usp=sharing)
+
+*Click the image above to watch the complete system execution and pipeline walkthrough.*
+
 ---
 
 ## 📌 1. Introduction & Problem Statement
