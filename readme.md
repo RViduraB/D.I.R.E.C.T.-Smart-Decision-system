@@ -126,13 +126,3 @@ Optimized Model Convergence: The proprietary neural network steadily minimizes i
 Granular Visual Analytics: Generates multi-layered charts showcasing total paddy and rice distributions across production districts alongside structured data frames.
 
 High-Visibility Macro Decision Box: Features a color-coded notification system inside the UI (Green for Exportable Surplus, Red for Required Imports) to provide immediate macro-level insights for national supply chains.
-
-## 9 👥 Team Members - Group 12 (OUSL - COU5300)
-
-| Registration Number | Name | Student Email |
-| :--- | :--- | :--- |
-| **123586766** | P.D.V.S. Edirisinghe |  |
-| **123585511** | P.K. S.R. Pallebage |  |
-| **123572396** | R.V.P.T.S. Bandara | |
-| **523593570** | P.D.W.P. Abewickrama | |
-| **623572889** | R.M.C.N. Rathnayaka | |
